@@ -32,3 +32,5 @@ target/
 .fake
 
 .DS_Store
+
+*/.settings
